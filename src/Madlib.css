@@ -1,0 +1,46 @@
+/* Madlib.css */
+
+/* Form container */
+.form-container {
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  /* Form title */
+  h2 {
+    font-size: 1.5em;
+    margin-bottom: 15px;
+  }
+  
+  /* Label styles */
+  label {
+    display: block;
+    font-size: 1.2em;
+    margin-bottom: 5px;
+  }
+  
+  /* Input styles */
+  input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1.2em;
+  }
+  
+  /* Submit button style */
+  button[type="submit"] {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.2em;
+    cursor: pointer;
+  }
+  
+  button[type="submit"]:hover {
+    background-color: #0056b3;
+  }
+  
